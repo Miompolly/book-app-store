@@ -31,4 +31,8 @@ This app has to parts: The first part is where you add a book title, author, pag
 
 [Twitter:Miompolly](https://twitter.com/miompolly_)
 
-[Facebook:MIompolly Joel](https://www.facebook.com/Miompolly.The.Myna)
+[Facebook:Miompolly Joel](https://www.facebook.com/Miompolly.The.Myna)
+
+[Instagram:Miompolly](https://www.instagram.com/miompolly_/)
+
+[Youtube:Miompolly](https://www.youtube.com/channel/UCJCSlS7KnB8AzgPNcgNVTGA)
